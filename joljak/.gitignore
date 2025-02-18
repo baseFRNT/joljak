@@ -1,0 +1,4 @@
+git rm -r --cached .
+git add .
+git commit -m "clear git cache" //커밋 메시지는 변경 가능
+git push
